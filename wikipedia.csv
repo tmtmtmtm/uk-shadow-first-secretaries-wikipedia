@@ -1,0 +1,7 @@
+id,name,start_date,end_date,replaces,replaced_by,cabinet,cabinetLabel
+Q311278,Jack Straw,2010-05-11,2010-09-25,,Q234182,,
+Q234182,Harriet Harman,2010-10-07,2015-05-08,Q311278,Q262742,,
+Q262742,Hilary Benn,2015-05-11,2015-09-13,Q234182,Q302763,,
+Q302763,Angela Eagle,2015-09-13,2016-06-27,Q262742,Q272408,,
+Q272408,Emily Thornberry,2017-06-14,2020-04-05,Q302763,Q18164278,,
+Q18164278,Angela Rayner,2020-04-09,Present,Q272408,,,
