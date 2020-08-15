@@ -1,0 +1,86 @@
+[
+  {
+    "item": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "start": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262742$D99022DF-FE0A-47F1-85F0-00CE2443C250"
+  },
+  {
+    "item": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replaces": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replacedBy": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302763$0899BE31-C6BF-45E5-8F81-A0EE4240097E"
+  },
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replaces": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replacedBy": {
+      "value": "Q18164278",
+      "label": "Angela Rayner"
+    },
+    "start": {
+      "value": "2017-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$CA0A161C-1F17-4736-B735-34D1A55930E7"
+  },
+  {
+    "item": {
+      "value": "Q18164278",
+      "label": "Angela Rayner"
+    },
+    "replaces": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2020-04-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q18164278$59A75082-E91A-4EB2-A274-AB5B722AF559"
+  }
+]
